@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dnyaneshwar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFrWBScTic&#x2F;watch?utm_content=DAFrWBScTic&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Red and Black Modern Personal LinkedIn Banner</a> by Dnyaneshwar Rede Jr
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnyaneshwarrede&label=Profile%20views&color=0e75b6&style=flat" alt="dnyaneshwarrede" /> </p>
 
 <p align="left"> <a href="https://twitter.com/drede_22" target="blank"><img src="https://img.shields.io/twitter/follow/drede_22?logo=twitter&style=for-the-badge" alt="drede_22" /></a> </p>
